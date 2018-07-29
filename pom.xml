@@ -13,6 +13,11 @@
     <dependency>
       <version>1.5.14.RELEASE</version>
       <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <dependency>
+      <version>1.5.14.RELEASE</version>
+      <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter</artifactId>
     </dependency>
   </dependencies>
